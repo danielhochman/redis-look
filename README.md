@@ -1,5 +1,7 @@
 # redis-look
 
+:warning: This software is alpha quality.
+
 ```
 Usage:
   redis-look-monitor.py
@@ -66,4 +68,3 @@ Estimating throughput requirements for top 1000 keys...
 TODO: 
  - create module and upload to PyPI
  - fix various code TODOs
- - upload 
